@@ -1,0 +1,39 @@
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .section-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .section-content {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  .field-title {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .core-values-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .core-value {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .additional-section {
+    margin-top: 40px;
+  }
+  

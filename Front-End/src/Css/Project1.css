@@ -1,0 +1,11 @@
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  .videoframe {
+    animation: fadeIn 1s ease-in-out; /* You can adjust the duration and timing function */
+  }
